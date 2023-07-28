@@ -1,2 +1,3 @@
 - [Get Started](README)
-- [Commands](second-page)
+- [Commands & Features](second-page)
+- [Start Editing Code / Terms](editing-code-page)

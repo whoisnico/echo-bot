@@ -3,7 +3,7 @@
 > Best open src bot for your community server!
 
 ## Bot Setup
-
+If you need more help, visit my [Discord Server](https://discord.gg/KJs5jM7JTa).
 ### Windows
 1. [Download the code from Github](https://github.com/whoisnico/echo-bot)
 2. Create an Application on [Discord Developer Portal](https://discord.com/developers/applications)
@@ -21,14 +21,15 @@
 
 ### Linux
 
+### Editing Code
+
+#### [Check This Page](http://127.0.0.1:5500/docs/#/editing-code-page)
 
 
 
 
-## Editing Content
-
-> ##### **Please dont remove any credits if you are using this Bot ♥!**
 
 
 
-If you need more help, visit my [Discord Server](https://discord.gg/KJs5jM7JTa).
+
+
