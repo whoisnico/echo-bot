@@ -19,10 +19,10 @@ class BotInfoCog(commands.Cog):
         embed = disnake.Embed(title="Echo Bot Info", 
                               color=0x2F3136, 
                               timestamp=datetime.datetime.utcnow(),
-                              description=f"UpTime - {days}d, {hours}h {minutes}m \n Bot Name - {self.bot.user.name} \n Status - {self.bot.status.name.capitalize()} \n [GitHub](https://github.com/whoisnico/echo-bot) - [Documentation](https://whoisnico.github.io/echo-bot/) [Support](https://discord.gg/KJs5jM7JTa)")
+                              description=f"UpTime - {days}d, {hours}h {minutes}m \n Bot Name - {self.bot.user.name} \n Status - {self.bot.status.name.capitalize()} \n [GitHub](https://github.com/whoisnico/echo-bot) - [Documentation](https://whoisnico.github.io/echo-bot/) - [Support](https://discord.gg/KJs5jM7JTa)")
         
         embed.set_thumbnail(url=self.bot.user.avatar.url)
-        embed.set_footer("copyright by github.com/whoisnico")
+        embed.set_footer(text="copyright by github.com/whoisnico")
         await inter.send(embed=embed)
  
 
