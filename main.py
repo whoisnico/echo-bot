@@ -10,6 +10,7 @@ clientIntents = disnake.Intents.default()
 clientIntents.message_content = True
 clientIntents.members = True
 clientIntents.presences = True
+clientIntents.voice_states = True
 client = commands.Bot(command_prefix="?" , intents=clientIntents, help_command=None)
 
 for folder in os.listdir('./cogs'):
