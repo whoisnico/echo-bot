@@ -1,3 +1,4 @@
+import time
 import requests
 import disnake,json,os,random
 from disnake.ext import commands
@@ -17,6 +18,7 @@ clientIntents.voice_states = True
 clientIntents.dm_messages = True
 
 client = commands.Bot(command_prefix="?" , intents=clientIntents, help_command=None)
+client.start_time = time.time()
 
 for folder in os.listdir('./cogs'):
     if folder.endswith('.py'):
