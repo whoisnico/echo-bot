@@ -16,5 +16,5 @@
 
 
 ## Todo
-[ ] YouTube Sound Player \
-[ ] Points System
+- [ ] YouTube Sound Player
+- [ ] Points System
