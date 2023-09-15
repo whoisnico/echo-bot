@@ -34,6 +34,23 @@ Joined Server Date
 Activity (Playing:Name/Streaming:Name[URL]/Listening:Song[Artist][Album])
 Profile Badges (staff/partner/hypesquad/bug_hunter/hypesquad_bravery/hypesquad_brilliance/hypesquad_balance/early_supporter/system/bug_hunter_level_2/verified_bot/verified_bot_developer/early_verified_bot_developer/moderator_programs_alumni/discord_certified_moderator/http_interactions_bot/spammer/active_developer/bot)
   ```
+
+### /botinfo
+
+> usage: `botinfo` 
+
+Get following Information from the Bot:
+```
+UpTime (Days, Hours, Minutes)
+Displayname
+User ID
+Status (Online/Dnb/Idle/Offline)
+Ping
+Servers
+Last Update
+Importants Links
+  ```
+
 ## Modmail
 
 #### When a user send a dm to the Bot. You get the message on the `#modmail` (create the channel if you dont have it) Channel.
