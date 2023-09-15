@@ -51,6 +51,8 @@ Last Update
 Importants Links
   ```
 
+## Tools Conmmands
+
 ## Modmail
 
 #### When a user send a dm to the Bot. You get the message on the `#modmail` (create the channel if you dont have it) Channel.
