@@ -2,6 +2,9 @@ import time
 import disnake
 from disnake.ext import commands
 import datetime
+import psutil
+
+
 
 class BotInfoCog(commands.Cog):
     def __init__(self, bot):
