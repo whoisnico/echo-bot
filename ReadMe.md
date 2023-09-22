@@ -21,7 +21,14 @@
 ## Todo
 - [ ] Sellpass API Intergration
     - [x] Get Shops
-    
+    - [ ] Customer Role
+    - [ ] Get Shop Informations
+    - [ ] More
+
 - [ ] Generator Bot
+    - [ ] Manage Stock
+    - [ ] Generate Command
+    - [ ] Stock Command
 - [ ] Event Logger
-- [ ] Coints System
+- [ ] Coins System
+- [ ] Dashboard Site
