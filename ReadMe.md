@@ -5,7 +5,10 @@
 
 
 
+## Informations
 
+[Check for Help](https://discord.gg/KJs5jM7JTa)
+[Commands & Help Site](https://whoisnico.github.io/echo-bot/)
 
 
 ## Features
@@ -16,5 +19,5 @@
 
 
 ## Todo
-- [ ] YouTube Sound Player
+- [ ] Sellpass API Intergration
 - [ ] Points System
