@@ -20,4 +20,8 @@
 
 ## Todo
 - [ ] Sellpass API Intergration
-- [ ] Points System
+    - [x] Get Shops
+    
+- [ ] Generator Bot
+- [ ] Event Logger
+- [ ] Coints System
