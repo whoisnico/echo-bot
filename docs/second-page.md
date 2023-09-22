@@ -50,6 +50,27 @@ Servers
 Last Update
 Importants Links
   ```
+## Sellpass Intergration
+
+#### To start do you need a working Sellpass Shop and your Account API Key. This is how to get your API Key:
+- Go to https://dashboard.sellpass.io/settings/security 
+- Scroll down till you see API Key
+- Click on Copy
+- Set your Token (/setshop_token) and (/setshop_id)
+
+## /setshop_token
+> usage: `/setshop_token (token)` \
+>  Connect the Bot with your Sellpass Account
+
+You get following Information for the next Command:
+```
+Shop ID: 1234 - Name: Example 1
+Shop ID: 4321 - Name: Example 2
+```
+
+## /setshop_id
+> usage: `/setshop_id (id)` \
+>  Connect the Bot with your Sellpass Shop
 
 ## Tools Conmmands
 
