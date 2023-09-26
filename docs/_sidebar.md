@@ -1,3 +1,3 @@
 - [Get Started](README)
-- [Commands & Features](second-page)
+- [Commands & Features](commands_features)
 - [Start Editing Code / Terms](editing-code-page)

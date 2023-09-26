@@ -1,6 +1,6 @@
 # Echo Documentation
 
-> Best open src bot for your community server!
+> Elevate your server's potential with our versatile bot – your all-in-one solution for seamless server management, powerful integrations, and endless possibilities! And all this open src!
 
 ## Bot Setup
 If you need more help, visit my [Discord Server](https://discord.gg/KJs5jM7JTa).
@@ -33,6 +33,10 @@ If you need more help, visit my [Discord Server](https://discord.gg/KJs5jM7JTa).
 ### Linux
 
 ### Editing Code
+
+## Using the Bot
+
+We strongly recommend using this bot on only one server at a time. The bot is designed to provide optimal support for a single server, and using it on multiple servers simultaneously may lead to various issues. To stay updated on the bot's status and features, regularly check the command `/botinfo`. We advise exclusively using the Beta and Releases versions, as the Developer Version may not always function correctly. For the latest updates, you can visit this link.
 
 #### [Check This Page](http://127.0.0.1:5500/docs/#/editing-code-page)
 

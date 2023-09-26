@@ -72,6 +72,14 @@ Shop ID: 4321 - Name: Example 2
 > usage: `/setshop_id (id)` \
 >  Connect the Bot with your Sellpass Shop
 
+## /setshop_customer_role
+> usage: `/setshop_customer_role (role)` \
+>  Select a role for your Sellpass customers!
+
+## /shop_claimrole
+> usage: `/shop_claimrole (orderid)` \
+>  Get your customer role (connected to sellpass.io)
+
 ## Tools Conmmands
 
 ## Modmail
